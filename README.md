@@ -1,6 +1,11 @@
 # Estudo In Silico: Regeneração Renal com Inteligência Artificial
 
-Projeto de pesquisa científica focado na análise comparativa de transcriptômica de célula única (*single-cell RNA-seq*) entre modelos animais regenerativos (*Danio rerio*) e biópsias de lesão renal humana (*Homo sapiens*).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24520641.svg)](https://doi.org/10.5281/zenodo.24520641)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+**Publicação Oficial:** [https://doi.org/10.5281/zenodo.24520641](https://doi.org/10.5281/zenodo.24520641)
+
+Projeto de pesquisa científica focado na análise comparativa de transcriptômica de célula única (*single-cell RNA-seq*) entre modelos animais regenerativos (*Danio rerio*) e biópsias de lesão renal humana (*Homo sapiens*) e veterinária (*Canis lupus familiaris*).
 
 ## Estrutura do Projeto
 - `notebooks/`: Notebooks interativos compatíveis com Google Colab e Jupyter.
