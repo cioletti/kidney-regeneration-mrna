@@ -1,6 +1,6 @@
 # Análise Comparativa de Célula Única e Desenho de Terapia de mRNA para Regeneração Renal: Uma Abordagem One Health
 
-**Autor Proponente:** Rodrigo Cioletti  
+**Autor Proponente:** Rodrigo Cioletti Vale  
 **Co-desenvolvimento:** Antigravity AI  
 **Licença:** Creative Commons Atribuição 4.0 Internacional (CC-BY 4.0) / Domínio Público Científico  
 **Data:** 25 de Novembro de 2026  
